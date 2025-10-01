@@ -49,3 +49,50 @@ td {
     text-align: right;
     padding-left: 50px;
 }
+
+.foto-omne-dej-vlevo {
+    float: left;
+    margin: 0 30px 30px 0;
+}
+
+.foto-pruvodce-dej-vpravo {
+    float: right;
+    margin: 0 0 30px 30px;
+}
+
+.foto-kontakt-dej-vlevo {
+    float: left;
+    margin: 0 30px 30px 0;
+}
+
+.hlavicka {
+    background-image: url(obrazky/hlavicka.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 150px 30px;
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #282425;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+    background-color: #756158;
+}
