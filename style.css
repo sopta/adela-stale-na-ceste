@@ -24,15 +24,23 @@ h3 {
 h1 {
     font-size: 80px;
     text-align: center;
+    /*
+    Chci mít obrázek v hlavičce
+    color: white;
+    margin: 0;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.7);
+    */
 }
 
 h2 {
     font-size: 48px;
     text-align: center;
+    /* nechybí tu něco? :-) */
 }
 
 h3 {
     font-size: 24px;
+    /* nechybí tu něco? :-) */
 }
 
 a {
