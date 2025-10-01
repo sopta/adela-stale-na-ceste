@@ -46,3 +46,19 @@ h3 {
 a {
     font-style: italic;
 }
+
+.fotogalerie,
+.kontakt {
+    background-color: #f9e3d0;
+}
+
+.paticka {
+    background-color: #282425;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+section {
+    padding: 50px 15%;
+}
