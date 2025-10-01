@@ -1,0 +1,51 @@
+/* 
+   Aplikovat na moji profilovku
+*/
+.foto-omne {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.fotogalerie img {
+    width: 32%;
+    border: 2px solid #756158;
+    border-radius: 10px;
+}
+
+/* 
+    Obrázek v sekci Turistický průvodce 
+    Sirka: 350px
+    Zkus vlastni radius
+*/
+.foto-pruvodce {
+    border-radius: 0 50px 50px 50px;
+}
+
+/* 
+    Obrázek v sekci Kontakt
+    Sirka: 350px
+    Zkus vlastni radius
+*/
+.foto-kontakt {
+    border-radius: 50px 0 50px 50px;
+}
+
+table {
+    border-spacing: 0;
+    padding: 30px;
+}
+
+th,
+td {
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding: 10px 0;
+}
+
+/* 
+    Tohle bych měla přidat do tabulky, kde mam sloupec s cenou
+*/
+.cena {
+    text-align: right;
+    padding-left: 50px;
+}
